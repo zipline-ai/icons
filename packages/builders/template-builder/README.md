@@ -8,13 +8,13 @@ Effortless Icon Pack for template Icons
 ## Installation
 
 ```bash
-npm i -D @steeze-ui/unnamed
+npm i -D @zipline-ai/icons
 ```
 
 ## Usage
 
 ```js
-import { Activity } from '@steeze-ui/unnamed'
+import { ChartSkew } from '@zipline-ai/icons'
 ```
 
 ## Documentation
