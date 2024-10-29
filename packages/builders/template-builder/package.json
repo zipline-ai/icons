@@ -1,7 +1,7 @@
 {
-	"name": "unnamed",
+	"name": "@zipline-ai/icons",
 	"description": "Icon Sources (based on template) built for @steeze-ui/icons",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run package",
@@ -46,19 +46,19 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/steeze-ui/icons.git"
+		"url": "git+https://github.com/zipline-ai/icons.git"
 	},
 	"keywords": [
 		"raw",
 		"icons",
 		"steeze"
 	],
-	"author": "Justin Voitel <mail@justinv.me>",
+	"author": "Ken Morton <ken@zipline.ai>",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/steeze-ui/icons/issues"
+		"url": "https://github.com/zipline-ai/icons/issues"
 	},
-	"homepage": "https://github.com/steeze-ui/icons#readme",
+	"homepage": "https://github.com/zipline-ai/icons/tree/main/packages/builders/template-builder#readme",
 	"publishConfig": {
 		"access": "public",
 		"registry": "https://registry.npmjs.org/"
